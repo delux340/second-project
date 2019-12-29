@@ -1,0 +1,12 @@
+let stateArray;
+let selectedArray = [];
+const homeBtn = document.getElementById("home");
+const aboutBtn = document.getElementById("aboutBtn");
+const liveReportsBtn = document.getElementById("livereports");
+const searchInput = document.getElementById("searchInput");
+const searchButton = document.getElementById('searchButton');
+const aboutDiv = document.getElementById('about');
+const modal = document.getElementById('myModal');
+const modalDiv = document.getElementById('modalDiv');
+const mainDiv = document.getElementById('mainDiv');
+const modalBtn = document.getElementById('modalBtn');
